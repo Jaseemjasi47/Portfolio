@@ -21,7 +21,7 @@ export default function About() {
                     >
                         <div className="relative z-10 rounded-2xl overflow-hidden glass-panel p-2">
                             <img
-                                src="https://images.unsplash.com/photo-1544256333-60e295099208?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+                                src="/assets/profile.jpg"
                                 alt="Profile"
                                 className="w-full h-auto rounded-xl filter grayscale hover:grayscale-0 transition-all duration-500 transform hover:scale-105"
                             />

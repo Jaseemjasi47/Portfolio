@@ -51,7 +51,14 @@ export const portfolioData = {
       id: 1,
       role: "Full Stack Developer",
       company: "Brototype",
-      period: "2022 – Present",
+      period: "2022 – 2024",
+      description: "Building scalable web applications using Django & React. Working with authentication, REST APIs, and database design. optimizing performance and ensuring clean UI/UX."
+    },
+    {
+      id: 2,
+      role: "Full Stack Developer",
+      company: "Ociuz Infotech",
+      period: "2025 – Present",
       description: "Building scalable web applications using Django & React. Working with authentication, REST APIs, and database design. optimizing performance and ensuring clean UI/UX."
     }
   ],
